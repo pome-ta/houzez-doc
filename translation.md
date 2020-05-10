@@ -132,11 +132,11 @@ Houzezをインストールすると、WordPress管理者に必要なプラグ�
 #### 必要なプラグイン
 
 1) `Houzez Theme – Functionality` : テーマのコア機能プラグイン。 これが常にインストールされ、アクティブ化されていることを確認してください。
-2) `Houzez Login Register` : Houzezテーマのログイン登録機能を追加します。 これが常にインストールされ、アクティブ化されていることを確認してください。
-3) `Houzez CRM` : カスタマーリレーションシップマネジメント（CRM）システムをサイトに追加します。
-4) `Favethemes Insights` : グラフにデータを表示する機能を追加します。
-5) `Redux Framework` : このプラグインはテーマオプション用です。
-6) `One-Click Demo Import` : 
+1) `Houzez Login Register` : Houzezテーマのログイン登録機能を追加します。 これが常にインストールされ、アクティブ化されていることを確認してください。
+1) `Houzez CRM` : カスタマーリレーションシップマネジメント（CRM）システムをサイトに追加します。
+1) `Favethemes Insights` : グラフにデータを表示する機能を追加します。
+1) `Redux Framework` : このプラグインはテーマオプション用です。
+1) `One-Click Demo Import` : 
 
 
 
